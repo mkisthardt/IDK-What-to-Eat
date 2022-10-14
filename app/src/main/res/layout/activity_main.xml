@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="64dp"
         android:fontFamily="sans-serif-condensed"
-        android:text="IDK What to Eat"
+        android:text="IDK What to Eat!!!"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Display3"
         android:textColor="@color/black"
