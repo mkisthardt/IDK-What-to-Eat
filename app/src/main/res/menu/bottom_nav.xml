@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Random"
+        android:id="@+id/random"
+        android:icon="@drawable/ic_baseline_question_mark_24"/>
+    <item android:title="Cravings"
+        android:id="@+id/cravings"
+        android:icon="@drawable/ic_baseline_saved_search_24"/>
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Upload"
+        android:id="@+id/upload"
+        android:icon="@drawable/ic_baseline_add_a_photo_24"/>
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>
