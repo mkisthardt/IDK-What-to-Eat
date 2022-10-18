@@ -21,8 +21,10 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         bottomNavigationView = findViewById(R.id.bottomNavigationView);
 
@@ -54,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         });
+
     }
 }
 
