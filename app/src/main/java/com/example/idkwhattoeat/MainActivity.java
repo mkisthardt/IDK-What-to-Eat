@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationBarView;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     Upload uploadFragment = new Upload();
 
     @Override
+
     protected void onCreate(Bundle savedInstanceState) {
 
 
